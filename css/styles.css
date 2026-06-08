@@ -20,3 +20,6 @@
     max-width: 220px;
   }
 }
+.hero-home {
+  background: url('../assets/images/building-back.png') center center/cover no-repeat;
+}
