@@ -28,3 +28,31 @@
     background:url('../assets/images/property-wide.png') center center/cover no-repeat;
   }
 }
+@media(max-width:940px){
+
+.header-logo{
+    height:55px;
+    width:auto;
+}
+
+.site-header{
+    padding:12px 20px;
+}
+
+}
+@media(max-width:940px){
+
+.hero{
+    min-height:70vh;
+    padding:120px 24px 40px;
+}
+
+}
+@media(max-width:580px){
+
+h1{
+   font-size:38px;
+   line-height:1.05;
+}
+
+}
