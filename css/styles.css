@@ -23,3 +23,8 @@
 .hero-home {
   background: url('../assets/images/building-back.png') center center/cover no-repeat;
 }
+@media(min-width:941px){
+  .hero-home{
+    background:url('../assets/images/property-wide.png') center center/cover no-repeat;
+  }
+}
